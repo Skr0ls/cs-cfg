@@ -1,6 +1,3 @@
-# cs-cfg
-This is just my cs2 default config, for fast setup on new pc)
-
 # Video
 ## Resolution
 4:3 stretched
@@ -8,21 +5,33 @@ This is just my cs2 default config, for fast setup on new pc)
 
 ## Advanced
 Boost Player Contrast = "ENABLED"
+
 NVIDIA REFLEX LOW LATENCY = "ENABLE + BOOST"
+
 Multisampling Anti-Aliasing mode = "4x MSAA"
+
 Global Shadow Quality = "High"
+
 Dynamic Shadows = "ALL"
+
 Model / Texture Detail = "LOW"
+
 Texture Filtering Mode = "Bilinear"
+
 Shader Detail = "LOW"
+
 Particle Detail = "LOW"
+
 Ambient Occlusion = "Disabled"
+
 High Dynamic Range = "Quality"
+
 FSR = "Disabled"
 
 # Game
-## DAMAGE PREDICTION IS "OFF"
-## First Person tracers is "ON"
+DAMAGE PREDICTION IS "OFF"
+
+First Person tracers is "ON"
 
 ## HUD
 `hud_scaling 1`
@@ -43,6 +52,7 @@ FSR = "Disabled"
 
 ## Radar
 Toggle Square Shape "Yes"
+
 Center player "NO"
 
 `radarvisdistance  1000`
@@ -57,4 +67,5 @@ Center player "NO"
 
 ## Grenades line up
 Keep Regular Crosshair "YES"
+
 all granades 0.00
